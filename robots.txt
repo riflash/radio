@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/riflash/radio.git/sitemap.xml
+Sitemap: https://main.d3n5nszwcm1acu.amplifyapp.com/sitemap.xml

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>radio</title>
-    <link href="https://github.com/riflash/radio.git/feed.xml" rel="self" />
-    <link href="https://github.com/riflash/radio.git" />
+    <link href="https://main.d3n5nszwcm1acu.amplifyapp.com/feed.xml" rel="self" />
+    <link href="https://main.d3n5nszwcm1acu.amplifyapp.com" />
     <updated>2024-03-11T13:11:28+01:00</updated>
     <author>
         <name>io</name>
     </author>
-    <id>https://github.com/riflash/radio.git</id>
+    <id>https://main.d3n5nszwcm1acu.amplifyapp.com</id>
 
     <entry>
         <title>radio test ftp 4</title>
         <author>
             <name>io</name>
         </author>
-        <link href="https://github.com/riflash/radio.git/radio.html"/>
-        <id>https://github.com/riflash/radio.git/radio.html</id>
+        <link href="https://main.d3n5nszwcm1acu.amplifyapp.com/radio.html"/>
+        <id>https://main.d3n5nszwcm1acu.amplifyapp.com/radio.html</id>
 
         <updated>2024-03-06T16:32:46+01:00</updated>
             <summary>
