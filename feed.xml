@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>radio</title>
+    <link href="https://github.com/riflash/radio.git/feed.xml" rel="self" />
+    <link href="https://github.com/riflash/radio.git" />
+    <updated>2024-03-11T13:11:28+01:00</updated>
+    <author>
+        <name>io</name>
+    </author>
+    <id>https://github.com/riflash/radio.git</id>
+
+    <entry>
+        <title>radio test ftp 4</title>
+        <author>
+            <name>io</name>
+        </author>
+        <link href="https://github.com/riflash/radio.git/radio.html"/>
+        <id>https://github.com/riflash/radio.git/radio.html</id>
+
+        <updated>2024-03-06T16:32:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                    prova ftp 4 Lunedi 9 OTTOBRE 2023 ore 21
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>prova ftp 4</h2>
+<p> </p>
+<p>Lunedi 9 OTTOBRE 2023 ore 21</p>
+<address><em>Cantautrice Eclettica</em></address>
+<table class=" align-left" style="border-collapse: collapse; width: 200px; height: 60px; border-style: none;" border="0">
+<tbody>
+<tr style="height: 60px;">
+<td style="width: 99.5px; border-style: hidden;"><a href="https://www.instagram.com/p/CyQeMivM_qj/?igsh=eWx5OGN6cXFta3U0" title="instagram" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://babao.netlify.app/ig.svg" alt="" width="60" height="60" data-is-external-image="true"></figure></a></td>
+<td style="width: 100.5px; border-style: hidden;"><a href="https://www.facebook.com/100089029644619/posts/pfbid0pQu8QS3ZFfNmjveSdvR8WeKqWEYG8dvwTrsBsfg6FXWsXw2hmUbykhCk3KEqgeT6l/" title="facebook" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://babao.netlify.app/fb.svg" alt="" width="60" height="60" data-is-external-image="true"></figure></a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
